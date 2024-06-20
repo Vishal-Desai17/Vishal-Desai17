@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and Artificial Inteligence 
 - 🌱 I’m currently learning Generative AI and RAG
 - 💞️ I’m looking to collaborate on end to end geneartive ai and deep learning project
-- 📫 How to reach me vishaldesa2535@gmail.com
+- 📫 How to reach me vishaldesai2535@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
