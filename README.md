@@ -1,4 +1,4 @@
-Hi there I am Vishal
+Hi there I am Vishal.I'm AI Engineer.
 
 Passionate about AI/ML and Generative AI
 
